@@ -31,6 +31,16 @@ I am keen on programming since my childhood.
 
 ---
 
+## Code example
+
+```
+function multiply(a, b){
+  return a * b;
+}
+```
+
+---
+
 ## Education
 
 `2001-2006`
