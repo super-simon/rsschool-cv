@@ -1,1 +1,1 @@
-# rsschool-cv
+https://super-simon.github.io/rsschool-cv/cv
